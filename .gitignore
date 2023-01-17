@@ -131,3 +131,6 @@ dmypy.json
 # Jetbrains
 .idea/
 .idea
+
+# unzipped toobig file
+train/train-images.idx3-ubyte
