@@ -1,5 +1,7 @@
 # MNIST Recognizing hand written digits
 
+## SCHOOL PROJECT
+
 Python Jupyter Notebook 
 MNIST Dataset - Recognizing my own, intentionally badly handwritten images.
 
